@@ -7,7 +7,7 @@ def inputGUI(typeof: str) -> str:
 
     Returns:
         O conteúdo do input
-    
+
     Examples:
         >>> inputGUI('text')
         ''
